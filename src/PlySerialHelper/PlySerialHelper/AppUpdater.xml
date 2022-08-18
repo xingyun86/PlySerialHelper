@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appConfig>
+  <Code>PlySerialHelper</Code>
+  <Name>串口调试助手</Name>
+  <Version>1.0.0.1</Version>
+  <ServerUrl></ServerUrl>
+  <KillProcess>PlySerialHelper</KillProcess>
+  <StartProcess>PlySerialHelper</StartProcess>
+  <StartServices></StartServices>
+  <StopServices></StopServices>
+</appConfig>
